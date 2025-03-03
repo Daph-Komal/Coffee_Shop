@@ -1,0 +1,21 @@
+# Summary for Coffee Shop Sales Dashboard
+📊 Project Name: Coffee Shop Sales Analysis
+🔍 Description: This project analyzes sales data from a coffee shop to identify key trends, including customer preferences, peak hours, and revenue distribution. A Power BI dashboard has been created to visualize insights.
+
+# Key Insights from the Dashboard:
+☕ Total Sales: $698,812.33
+👣 Total Footfall: 149,116 customers
+💰 Average Bill per Person: $4.68
+🛒 Average Order Size: 1.44 items
+
+# Dashboard Highlights:
+⏳ Peak Hours: Sales peak between 8 AM and 11 AM, then gradually decline.
+🏢 Top Store Locations: Hell’s Kitchen and Lower Manhattan generate the highest revenue.
+🥇 Best-Selling Product Categories: Coffee and Tea lead the sales, followed by bakery items.
+🎯 Customer Preferences:
+Size Distribution: 30% prefer large-sized drinks, 31% opt for regular.
+Popular Product Types: Barista Espresso, Brewed Black Tea, and Gourmet Brewed Coffee.
+Sales Trend by Day: Friday sees the highest sales, while Saturday has the lowest.
+
+# Technologies Used:
+Excel, Pivot table.
